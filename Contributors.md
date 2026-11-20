@@ -65,7 +65,7 @@
 - [Kehinde Akinosi](https://github.com/bolaji0001)
 -- [Renfred](https://github.com/renfred2306)-my first open source contribution
 - [Becky Shania](https://github.com/McSteamyX)-Just small baby steps till we make it.
-- [AntiEntity314](https://github.com/AntiEntity314)
+- [AntiEntity314](https://github.com/AntiEntity314)- MUJAMMIL MOHAMMED
 - [WassaBassa](https://github.com/wassabassa) - There's a first time for everything
 - [Lori](https://github.com/LoriV2) I'm so anxious...
 - [Sri Krishnan S](https://github.com/SSK0414) - You can do this! I believe in you <3
